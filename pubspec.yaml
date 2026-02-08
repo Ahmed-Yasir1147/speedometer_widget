@@ -18,7 +18,12 @@ dev_dependencies:
 
 flutter:
   assets: 
-    - assets/images/
+    - assets/fonts/
+
+  fonts:
+    - family: DigitalNumbers
+      fonts:
+        - asset: assets/fonts/digital_numbers.ttf
 
 license: MIT
 

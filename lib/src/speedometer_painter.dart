@@ -421,7 +421,7 @@ class SpeedometerPainter extends CustomPainter {
       text: distanceTravelled,
       style: TextStyle(
         color: distanceScreenTextColor,
-        fontFamily: 'Digital7',
+        fontFamily: 'DigitalNumbers',
         fontSize: circularBodyRadius * 0.125,
       ),
     );
@@ -431,7 +431,7 @@ class SpeedometerPainter extends CustomPainter {
     )..layout();
     distanceTextPainter.paint(
       canvas,
-      Offset(-circularBodyRadius * 0.18, circularBodyRadius * 0.22),
+      Offset(-circularBodyRadius * 0.18, circularBodyRadius * 0.235),
     );
 
     // km text
