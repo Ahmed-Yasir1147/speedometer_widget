@@ -1,7 +1,7 @@
 name: speedometer_widget
 description: "Highly customizable widget to be used as a speedometer. It animates when value of speed or fuel changes. It has support for all Flutter platforms."
 version: 0.1.0
-repository: 
+repository: https://github.com/Ahmed-Yasir1147/speedometer_widget.git
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
