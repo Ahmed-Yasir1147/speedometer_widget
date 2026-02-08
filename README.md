@@ -112,8 +112,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
       body: Center(
         child: Speedometer(
-          height: 320,
-          width: 220,
           speedKmh: _speed,
           fuelPercent: _fuel,
           distanceTravelledKm: _distanceTravelled,

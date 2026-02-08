@@ -3,3 +3,8 @@
 - Initial Release
 - Customizable speedometer widget
 - Available on all platforms
+
+## 0.2.0
+
+- Fixed font size issue
+- Updated README

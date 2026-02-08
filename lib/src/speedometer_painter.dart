@@ -422,7 +422,7 @@ class SpeedometerPainter extends CustomPainter {
       style: TextStyle(
         color: distanceScreenTextColor,
         fontFamily: 'DigitalNumbers',
-        fontSize: circularBodyRadius * 0.125,
+        fontSize: circularBodyRadius * 0.075,
       ),
     );
     final distanceTextPainter = TextPainter(
