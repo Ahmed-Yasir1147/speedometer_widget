@@ -21,7 +21,7 @@ Add the dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  speedometer_widget: ^0.1.0
+  speedometer_widget: ^0.2.1
 ```
 
 And then run following command on terminal:

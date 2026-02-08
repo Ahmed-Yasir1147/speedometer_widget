@@ -8,3 +8,6 @@
 
 - Fixed font size issue
 - Updated README
+
+## 0.2.1
+- Fixed README instructions
