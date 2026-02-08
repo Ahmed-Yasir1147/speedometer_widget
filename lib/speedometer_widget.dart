@@ -1,0 +1,2 @@
+export 'src/speedometer.dart';
+
